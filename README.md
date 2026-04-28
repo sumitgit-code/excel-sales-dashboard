@@ -21,3 +21,11 @@ To demonstrate data analysis and visualization skills using Excel.
 
 🔗 File Included
 - sales-dashboard.xlsx
+
+📊 Dashboard Preview
+
+Sales by Month
+![Sales Chart](sales-chart.png)
+
+Profit by Category
+![Profit Chart](profit-chart.png)
